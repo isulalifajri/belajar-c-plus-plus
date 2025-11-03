@@ -60,3 +60,7 @@ g++ hello.cpp -o hello   ← compile
 ./hello                  ← jalankan
 
 ```
+
+cara jalanin notepad gui: 
+`g++ notepad_gui.cpp -o notepad_gui.exe -mwindows`
+`./notepad_gui.exe`
